@@ -1,0 +1,7 @@
+name: ChestSort
+version: 1.0
+main: Trubby.co.th.main
+author: olTrubbylo
+description: Sort your chest for free!
+commands:
+  sortchest:
